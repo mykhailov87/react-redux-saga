@@ -40,6 +40,6 @@ PrivatBank exchange: https://api.privatbank.ua/#p24/exchange
 
 ### Assets
 Картинки криптовалют:
-+ [BTC](assets/task2/icons/BTC.png)
-+ [ETH](assets/task2/icons/ETH.png)
-+ [XRP](assets/task2/icons/XRP.png)
++ [BTC](assets/images/icons/BTC.png)
++ [ETH](assets/images/icons/ETH.png)
++ [XRP](assets/images/icons/XRP.png)
